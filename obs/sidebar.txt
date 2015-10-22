@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/thr|Ethnologue data]]
 
-
 **Resources**
 
   * [[thr:obs|Open Bible Stories (thr)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:thr:obs:status}}
